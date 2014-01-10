@@ -1,0 +1,11 @@
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ChannelThis.mainForm.resources
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ChannelThis.Properties.Resources.resources
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ChannelThis.csproj.GenerateResource.Cache
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\bin\Debug\ChannelThis.exe
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\bin\Debug\ChannelThis.pdb
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ChannelThis.exe
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\obj\Debug\ChannelThis.pdb
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\bin\Debug\ExpandableGridView.dll
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\ChannelThis\ChannelThis\bin\Debug\ExpandableGridView.pdb
